@@ -1,2 +1,3 @@
 # JAVAMiniProject
-Mini projects in java
+Stack Queue Demo :
+Here show how stack and queue works using java swing components.
